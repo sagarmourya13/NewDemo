@@ -2,3 +2,6 @@
 wellcome in git 
 hi
 try to learn git
+
+try to edit perform
+check function

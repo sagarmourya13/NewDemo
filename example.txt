@@ -1,0 +1,4 @@
+
+wellcome in git 
+hi
+try to learn git

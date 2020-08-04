@@ -5,3 +5,7 @@ try to learn git
 
 try to edit perform
 check function
+
+change in lib 
+code 
+try to do new inhancement or upgration 
